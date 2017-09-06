@@ -1,0 +1,13 @@
+[package]
+name = "rustmvc"
+version = "0.1.0"
+authors = ["Nickforall <hello@nickforall.nl>"]
+
+[dependencies]
+iron = "0.5.1"
+router = "*"
+handlebars-iron = "0.25.2"
+serde = "^1.0.0"
+serde_json = "^1.0.0"
+serde_derive = "^1.0.0"
+maplit = "0.1.4"
